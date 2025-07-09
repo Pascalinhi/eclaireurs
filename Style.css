@@ -1,0 +1,31 @@
+
+        body {
+            font-family: Arial;
+        }
+
+        .navbar {
+            text-align: center;
+            background: lightblue;
+            border: 2px solid black;
+        }
+
+         h2 {
+            color : darkred;
+            text-align: center;
+        }
+
+        h3 {
+            color: darkblue;
+
+        }
+        h3 a {
+            padding: 10px;
+            color: black;
+            display: inline-block;
+        
+        }
+        p {
+            font-size: 20px;
+        }
+        
+    
